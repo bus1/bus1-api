@@ -22,6 +22,7 @@ At build-time, the following software is required:
 
  * `meson >= 0.41`
  * `pkg-config >= 0.29`
+ * `python-docutils >= 0.13`
 
 ### Build
 
