@@ -1,0 +1,7 @@
+LIBBUS1_API_1 {
+global:
+        bus1_api_open;
+        bus1_api_close;
+local:
+       *;
+};
